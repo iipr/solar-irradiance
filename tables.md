@@ -22,6 +22,6 @@
     - RMSE scored by the model using only the remaining sensors.
     - For every forecast horizon, median skill scored for the 17 locations where sensors are placed.
       With this information plots were produced showing how skill evolves when fewer sensors are available,
-      see [model graph](https://delicias.dia.fi.upm.es/nextcloud/index.php/s/yBekwdywy5P4rWC).
+      see this [link](https://delicias.dia.fi.upm.es/nextcloud/index.php/s/yBekwdywy5P4rWC).
     - Mean of the previous values.  
 
