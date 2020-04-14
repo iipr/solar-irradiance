@@ -3,6 +3,7 @@
 - [Sensor distribution map](https://delicias.dia.fi.upm.es/nextcloud/index.php/s/fTFqB4Wx6PW8kgJ/preview).
   This plot shows the location of the pyranometers relative to one another
 - [Boxplots of the skill per horizon](https://delicias.dia.fi.upm.es/nextcloud/index.php/s/k7DqRJCeCJ3Q7n6).
+  For each model, a plot depicting how skill distributes across sensors for every horizon.
 - [Robustness tests](https://delicias.dia.fi.upm.es/nextcloud/index.php/s/yBekwdywy5P4rWC).
   For each model that works with irradiance maps, we simulated how the skill evolves when fewer
   sensors are available. Thus, the irradiance map is interpolated with the available data on each prediction step.
