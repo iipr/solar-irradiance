@@ -5,7 +5,7 @@
     - **Key**: Key or abbreviated name for a model with certain characteristics.
                From the key you can understand the target variable, timestep and network type.
     - **Model**: The kind of neural network. The detailed architecture can be depicted in the
-                 [model graph](https://github.com/iipr/solar-irradiance/blob/master/graphs.md).
+                 [model graph](https://delicias.dia.fi.upm.es/nextcloud/index.php/s/ZsKnRZXSFD8omXC).
     - **Target**: Variable that is predicted.
     - **Time granularity**: Frequency at which the data is recorded.
     - **Timestep**: Size of the time window that is fed as input.
@@ -22,6 +22,6 @@
     - RMSE scored by the model using only the remaining sensors.
     - For every forecast horizon, median skill scored for the 17 locations where sensors are placed.
       With this information plots were produced showing how skill evolves when fewer sensors are available,
-      see [model graph](https://github.com/iipr/solar-irradiance/blob/master/graphs.md).
+      see [model graph](https://delicias.dia.fi.upm.es/nextcloud/index.php/s/yBekwdywy5P4rWC).
     - Mean of the previous values.  
 
