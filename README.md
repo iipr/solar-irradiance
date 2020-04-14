@@ -17,3 +17,5 @@ system for solar irradiance forecasting. It is organised as follows:
 - **Graphs**: Sensor distribution map, robustness tests, sample predictions,
     animated irradiance maps...
     Details [here](https://github.com/iipr/solar-irradiance/blob/master/graphs.md).
+
+![https://delicias.dia.fi.upm.es/nextcloud/index.php/s/fTFqB4Wx6PW8kgJ/preview]
