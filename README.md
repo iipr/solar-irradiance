@@ -2,7 +2,8 @@
 This repository gathers and expands results obtained with a Deep Learning
 system for solar irradiance forecasting. It is organised as follows:
 
-- **Datasets**: The data that was used in the experiments is subject to distribution restrictions:
+- **Datasets**: The data that was used in the experiments is subject to distribution restrictions.
+    Quoting the [website](https://midcdmz.nrel.gov/apps/sitehome.pl?site=OAHUGRID) where the raw data was obtained from:
     _These data and any subset may not be publically redistributed by any means._
     Thus, a [Jupyter Notebook](https://github.com/iipr/solar-irradiance/blob/master/etl-data/etl-data.ipynb)
     is provided to reproduce how the raw data was transformed to train the models.
