@@ -1,9 +1,9 @@
 # Results tables
 
 - [Big table](https://delicias.dia.fi.upm.es/nextcloud/index.php/s/X6ssdscgJnzingZ)
-  that summarises results for all models. Some important columns are:
+  that summarises results for all relevant models. Some important columns are:
     - **Key**: Key or abbreviated name for a model with certain characteristics.
-               From the key you can understand the target variable, timestep and network type.
+               From the key, the target variable, timestep and network type can be understood.
     - **Model**: The kind of neural network. The detailed architecture can be depicted in the
                  [model graph](https://delicias.dia.fi.upm.es/nextcloud/index.php/s/ZsKnRZXSFD8omXC).
     - **Target**: Variable that is predicted.
@@ -21,7 +21,7 @@
     - Which sensors where excluded (their data were not available) for each repetition.
     - RMSE scored by the model using only the remaining sensors.
     - For every forecast horizon, median skill scored for the 17 locations where sensors are placed.
-      With this information plots were produced showing how skill evolves when fewer sensors are available,
-      see this [link](https://delicias.dia.fi.upm.es/nextcloud/index.php/s/yBekwdywy5P4rWC).
+      With this information, plots were produced showing how skill evolves when fewer sensors are available,
+      they can be depicted [here](https://delicias.dia.fi.upm.es/nextcloud/index.php/s/yBekwdywy5P4rWC).
     - Mean of the previous values.  
 

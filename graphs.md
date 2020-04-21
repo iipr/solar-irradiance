@@ -5,12 +5,12 @@
 - [Boxplots of the skill per horizon](https://delicias.dia.fi.upm.es/nextcloud/index.php/s/k7DqRJCeCJ3Q7n6).
   For each model, a plot depicting how skill distributes across sensors for every horizon.
 - [Robustness tests](https://delicias.dia.fi.upm.es/nextcloud/index.php/s/yBekwdywy5P4rWC).
-  For each model that works with irradiance maps, we simulated how the skill evolves when fewer
+  For each model that works with irradiance maps, simulations were carried out to show how the skill evolves when fewer
   sensors are available. Thus, the irradiance map is interpolated with the available data on each prediction step.
-  These plots were produced using data from [here](https://delicias.dia.fi.upm.es/nextcloud/index.php/s/RMYmSm8pmd2BtYn).
+  These plots were produced using results that are stored [here](https://delicias.dia.fi.upm.es/nextcloud/index.php/s/RMYmSm8pmd2BtYn).
 - [Sample predictions](https://delicias.dia.fi.upm.es/nextcloud/index.php/s/Sb7GLEyQiKFELs2).
   Series plots of the true vs. predicted variable (GHI or CSI) for each forecast horizon on a random day
-  of each month from the test set.
+  of each month from the test set (April 2010, December 2010 and July 2011).
 - [Model representation as graphs](https://delicias.dia.fi.upm.es/nextcloud/index.php/s/ZsKnRZXSFD8omXC).
   Obtained using Keras' [`plot_model`](https://keras.io/visualization/) function.
 - [Animated irradiance maps](https://delicias.dia.fi.upm.es/nextcloud/index.php/s/igoK6fyydLTkS5f).

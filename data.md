@@ -2,8 +2,8 @@
 
 The data used in this project was originally obtained from [1].
 It comprises almost 20 months of measurements, sampled every second from 5am to 8pm.
-Several HDF5 datasets can be obtained using our included
-[Jupyter Notebook](https://github.com/iipr/solar-irradiance/blob/master/etl-data.ipynb):
+Several HDF5 datasets can be obtained using the included
+[Jupyter Notebook](https://github.com/iipr/solar-irradiance/blob/master/etl-data/etl-data.ipynb):
 
 - Raw Global Horizontal Irradiance (GHI), including *NaNs* (-99999).
 - Raw GHI where *NaNs* are filled using neighbours and previous recordings.
