@@ -13,8 +13,8 @@ system for solar irradiance forecasting. It is organised as follows:
     hyperparameters. Also, robustness tests for all models that work with irradiance maps.
     Detailed information can be found [here](https://github.com/iipr/solar-irradiance/blob/master/tables.md).
 
-- **Graphs**: Sensor distribution map, robustness tests, sample predictions, model representation as graphs,
-    boxplots of the skill per horizon, animated irradiance maps...
+- **Graphs**: Sensor distribution map, boxplots of the skill per horizon, skill maps, robustness tests,
+    sample predictions, model representation as graphs, animated irradiance maps...
     Detailed information can be found [here](https://github.com/iipr/solar-irradiance/blob/master/graphs.md).
 
 ![](https://delicias.dia.fi.upm.es/nextcloud/index.php/s/fTFqB4Wx6PW8kgJ/preview)
