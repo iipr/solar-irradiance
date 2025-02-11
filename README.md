@@ -1,4 +1,5 @@
-# Deep Learning for solar irradiance forecasting
+# Spatio-Temporal Solar Irradiance Forecaster (ST-SIF)
+
 This repository gathers and expands results obtained with a Deep Learning
 system for solar irradiance forecasting. It is organised as follows:
 
