@@ -14,7 +14,7 @@
     - **Median of skills [%]**: For every forecast horizon, median skill scored by the 17 sensors.
     - **Mean of medians [%]**: Mean of the median of skills.
 
-- [Robustness tests](https://github.com/iipr/solar-irradiance/blob/master/results/robustness-test/)
+- [Robustness tests](https://github.com/iipr/solar-irradiance/blob/master/tables/robustness-test/)
   for all models that work with irradiance maps. Rows represent how many sensors where excluded,
   and columns show independent repetitions of the test where different sensors were randomly excluded.
   Each file in the folder shows results for a single model, including:
